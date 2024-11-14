@@ -1,2 +1,2 @@
-# CRs_GAME
-CRsのゲーム
+# Cosmic Rays GAME
+Cosmic Raysのゲーム
